@@ -1,0 +1,2 @@
+1) mvn archetype:generate -DgroupId=ru.easyjava.maven -DartifactId=hellomaven -Dversion=1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+2) mvn eclipse:eclipse
